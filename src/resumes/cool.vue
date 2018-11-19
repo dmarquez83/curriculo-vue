@@ -54,7 +54,7 @@
               <a
                  class="section-content__item-grid"
                  :href="project.url">
-                <span class="section-content__header"> {{ project.name }} </span>
+                <span class="section-content__header"> {{ project.name }} ( {{ project.pais }})</span>
                 <span class="section-content__subheader">{{ project.platform }}</span>
                 <span class="section-content__text"> {{ project.description }} </span>
                 <span class="section-content__text"> {{ project.url }} </span>

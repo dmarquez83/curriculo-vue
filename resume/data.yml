@@ -90,51 +90,61 @@ projects:
   platform: Django, Vue Js, Postgres
   description: Plataforma Orientada a la Investigación accesible, colaboradora y reproducible para el analisis de datos.
   url: https://multi-x.org/
+  pais: Argentina
 
 - name: Shark
   platform: Laravel, Vue Js, Postgres
   description: Herramientas de Gestión y Control de sus Inventarios en Puntos de Venta.
   url: http://www.smartsupply.cl/
+  pais: Chile
 
 - name: Avn Web
   platform: Hug (Python), Vue Js, Postgres
   description: Pagina Web de Noticias.
   url: http://www.avn.info.ve/
+  pais: Venezuela
 
 - name: Crack App
   platform: Ruby on Rail
   description: Una aplicacion Movil para organizar y jugar partidos de Futbol.
-  url: http://www.crackapp.futbol/
+  url: http://crackapp.futbol/
+  pais: Argentina
 
 - name: Vallas y Avisos
   platform: Ruby on Rail, Postgres
   description: Gestion de seguimiento y control de los procesos de Produccion.
   url: https://bitbucket.org/vallas_y_avisos/
+  pais: Colombia
 
 - name: Visared
   platform: Python, Ruby on Rail, Sqlite3
   description: Supervisión remota de dispositivos y procesos de su empresa, industria y hogar.
   url: http://proyectos.ubitica.com/visared/home/
+  pais: Venezuela
 
 - name: WifiListo
   platform: Django, Vue Js, Postgres
   description: Social Wifi Marketing.
   url: https://www.wifilisto.com/
+  pais: Venezuela
 
 - name: Trical
   platform: Laravel, Angular, Postgres
   description: Control y seguimiento de productividad de empleados.
   url: https://github.com/dmarquez83/bono_productividad
+  pais: Venezuela
 
 - name: SAE | Sistema de administración Empresarial
   platform: Laravel, Angular, Mongodb
   description: Sistema de Gestion de Personal.
   url: https://github.com/dmarquez83/rrhh
+  pais: Ecuador
 
 - name: Tusservicios.com
   platform: Laravel, Postgres
   description: Plataforma de servicios para tu Hogar.
   url: https://github.com/dmarquez83/tusservicios
+  pais: Venezuela
 
 hobbies:
 - name: Musica
