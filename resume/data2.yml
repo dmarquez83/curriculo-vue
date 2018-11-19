@@ -1,0 +1,111 @@
+/* #*/ export const PERSON = `
+name:
+  first: Digna Rosa
+  middle:
+  last: Marquez Luna
+about: Hi, my name is John Doe. I"m just about the most boring type of person you could
+       possibly imagine. I like collecting leaves from the tree in my back yard and documenting
+       each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
+position: Ingeniero en Informatica
+
+birth:
+  year: 1983
+  location: Venezuela
+
+experience:
+- company: Coding Motion C.A.
+  position: Coordinadora De Desarrollo
+  timeperiod: Mayo 2018
+  description: Responsable del diseño, implementación, pruebas y mantenimiento de las aplicaciones desarrolladas para los clientes, así como la definición de estándares/arquitectura  basados en las mejores prácticas con el objetivo de generar sistemas dinámicos y usables que faciliten y optimicen el trabajo de nuestros clientes.
+
+- company: Agencia Venezola de Noticias C.A (AVN)
+  position: Gerente de Investigación y desarrollo
+  timeperiod: Febrero 2013 - Mayo 2018
+  description: Responsable de automatizar los requerimientos de información de aquellas unidades usuarias que necesitan ser satisfechas mediante el desarrollo de sistemas de informática.
+               Precisar objetivos, alcances, normas y políticas que regirán cada sistema.
+               Analizar el alcance posible de los proyectos de sistemas que consideren inversiones.
+               Analizar cargas de trabajo del personal bajo mi dirección, estableciendo equilibrios necesarios.
+  website: https://avn.info.ve
+
+- company: Suministros Venezolanos Industriales C.A (SUVINCA)
+  position: Coordinadora de Desarrollo y Mantenimiento de Sistemas
+  timeperiod: Febreo 2010 - Enero 2013
+  description: Analizar los objetivos, alcances, normas y políticas que regirán los sistemas, con el fin de establecer las bases para el diseño.
+               Verificar la disponibilidad de recursos técnicos y humanos.
+               Establecer las responsabilidades mutuas para el desarrollo de cada sistema.
+               Analizar el plan maestro y establece fechas de compromiso.
+               Contribuir a los mas necesitados con las aplicaciones que ayudaron a manejar y distribuir los proyectos de Gestión social del Gobierno.
+
+education:
+- degree: Ingeniera en Informática
+  timeperiod: Octubre 2010 - Junio 2013
+  description: Instituto Universitario de Tecnología Doctor Federico Rivero Palacio.
+
+- degree: T.S.U. INFORMÁTICA MENCIÓN ANÁLISIS DE SISTEMAS
+  timeperiod: Octubre 2004 - Junio 2008
+  description: Instituto Universitario de Tecnología Agro-Industrial Región Los Andes.
+
+# skill level goes 0 to 100
+skills:
+- name: PHP
+  level: 100
+- name: HTML
+  level: 100
+- name: CSS
+  level: 95
+- name: JavaScript
+  level: 97
+- name: Ruby
+  level: 40
+- name: Python
+  level: 55
+- name: PostgreSQL
+  level: 100
+- name: Mysql
+  level: 80
+- name: MongoDB
+  level: 60
+- name: Sqlite3
+  level: 60
+- name: Node.js
+  level: 60
+- name: Angular
+  level: 60
+- name: Vue Js
+  level: 80
+- name: Django
+  level: 40
+- name: Laravel
+  level: 70
+knowledge: Diseño Grafico Adobe, Corel
+
+projects:
+- name: Multix
+  platform: Django, Vue Js, Postgres
+  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
+  url: https://github.com/salomonelli/best-resume-ever
+
+hobbies:
+- name: Video Games
+  iconClass: fa fa-gamepad
+  url: https://example.com
+
+- name: Drawing
+  iconClass: fa fa-pencil
+  url: https://example.com
+
+contributions:
+- name: best-resume-ever
+  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
+  url: https://github.com/salomonelli/best-resume-ever
+
+contact:
+  email: marquezdigna83@gmail.com
+  phone: +584142449078
+  street: Parque Caiza
+  city: Caracas - Venezuela
+  website: www.linkedin.com/in/digna-rosa-marquez-luna-b57a97127/
+  github: marquezdigna83
+# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
+lang: es
+`
